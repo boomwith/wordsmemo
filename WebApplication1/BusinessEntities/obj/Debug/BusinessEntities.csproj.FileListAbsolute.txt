@@ -1,0 +1,8 @@
+D:\VSSourceCode\WebApplication1\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\VSSourceCode\WebApplication1\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\VSSourceCode\WebApplication1\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\VSSourceCode\WebApplication1\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\VSProgram\WebApplication1\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\VSProgram\WebApplication1\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\VSProgram\WebApplication1\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\VSProgram\WebApplication1\BusinessEntities\obj\Debug\BusinessEntities.pdb

@@ -1,0 +1,9 @@
+D:\VSSourceCode\WebApplication1\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+D:\VSSourceCode\WebApplication1\ViewModel\bin\Debug\ViewModel.dll
+D:\VSSourceCode\WebApplication1\ViewModel\bin\Debug\ViewModel.pdb
+D:\VSSourceCode\WebApplication1\ViewModel\obj\Debug\ViewModel.dll
+D:\VSSourceCode\WebApplication1\ViewModel\obj\Debug\ViewModel.pdb
+D:\VSProgram\WebApplication1\ViewModel\bin\Debug\ViewModel.dll
+D:\VSProgram\WebApplication1\ViewModel\bin\Debug\ViewModel.pdb
+D:\VSProgram\WebApplication1\ViewModel\obj\Debug\ViewModel.dll
+D:\VSProgram\WebApplication1\ViewModel\obj\Debug\ViewModel.pdb
